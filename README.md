@@ -17,9 +17,17 @@ Analyzed ~28,000 PAYGo solar contracts to identify repayment drivers.
 
 **Cleaned data sample**: [Excel – first 100 rows + summary](paygo-solar-cleaned-sample.xlsx)
 
-**Challenges & Learnings**
-* Parsed messy comma-separated Payment History strings using SPLIT + VALUE
-* Debugged formula errors with real row examples
+## Challenges & Learnings
+
+- Parsed messy comma-separated Payment History strings using SPLIT, VALUE, IFERROR  
+- Debugged false positives in missed payment detection → shifted focus to payment volume patterns   
+- Learned to test formulas on real row examples early to avoid scaling errors
+
+## Tools & Skills Demonstrated
+
+- Data cleaning & feature engineering (Google Sheets)  
+- Business metric creation (buckets, correlations)  
+- Dashboard design & storytelling (Power BI)  
 
 Connect: [LinkedIn](linkedin.com/in/tejirienamuotor/) | Email: enamuotortejiri@gmail.com
 
