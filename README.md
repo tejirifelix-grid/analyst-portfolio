@@ -15,7 +15,7 @@ Analyzed ~28,000 PAYGo solar contracts to identify repayment drivers.
 
 **View the full analysis**: [PDF Dashboard & Insights](PAYGo_Solar_Repayment_Analysis_Tejiri_Felix_Portfolio_Project..pdf)
 
-**Cleaned data sample**: [Excel – first 100 rows + summary](PAYGo_Solar_Repayment_Analysis_Tejiri_Felix_Portfolio_Project(Cleaned sample).xlsx)
+**Cleaned data sample**: [Excel – first 100 rows + summary](paygo-solar-cleaned-sample.xlsx)
 
 **Challenges & Learnings**
 * Parsed messy comma-separated Payment History strings using SPLIT + VALUE
