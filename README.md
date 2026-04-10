@@ -1,6 +1,6 @@
 # Tejiri – Data Analyst Portfolio
 
-Aspiring Data Analyst with engineering & renewable energy background. Passionate about turning messy data into clear business insights and actionable recommendations.
+Data Analyst with engineering & renewable energy background. Passionate about turning messy data into clear business insights and actionable recommendations.
 
 ## Featured Projects
 
